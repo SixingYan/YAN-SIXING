@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+### "Welcome to the homepage of Sixing (Alfonso) Yan"
 
-You can use the [editor on GitHub](https://github.com/SixingYan/homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Keywords**: [Education] [Experiences] [Projects] [Publications] [News]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **EDUCATION**
+ - **Worcester Polytechnic Institute (WPI)** [[*link*]](https://www.wpi.edu/) (present-6/2020)
+ 	Master of Computer Science
+ 	Worcester, Unites States
+ 	
+ - **Beijing Normal University (BNU)** [[*link*]](http://english.bnu.edu.cn/) (Project 985 & Project 211). (9/2013-6/2017)
+	Bachelor of *Information Management and Information Systems* 
+	Beijing, China
+	*Outstanding Undergraduate Graduation Thesis: Utilizing Academic-Network-Based Conflict of Interests for Reviewer Assignment.*
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **EXPERIENCE**
 
-```markdown
-Syntax highlighted code block
+- Intern at Data Analyst Assistant (8/2016-12/2016)
+	Group: End-User Research Statistics. ***IDC Consulting (Beijing) Ltd.*** ,Beijing, China.
+ - Assistant Undergraduate Researcher (6/2015-6/2017)
+	Advisor: Professor and Deputy Dean Geng Qian [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), Assoc Prof. Jin Jian [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), ***Beijing Normal University***, Beijing, China.
+ - Project Principal Investigator (6/2014-5/2015)
+	Mentor: Professor and Department Director Liu Xiaojuan [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), ***Beijing Normal University***, Beijing, China.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## **PUBLICATIONS**
+ - **Yan, S.**, Jin, J., Geng, Q. (2017). Utilizing Academic-Network-Based Conflict of Interests for Paper Reviewer Assignment, International Journal of Knowledge Engineering vol. 3, no. 2, pp. 65-73. [*[paper]*](http://www.ijke.org/vol3/89-TS0034.pdf) [*[link]*](http://www.ijke.org/index.php?m=content&c=index&a=show&catid=47&id=135)
 
-1. Numbered
-2. List
+ - Jin, J., **Yan, S.**, Ji, P., & Geng, Z. Comparison of series products from customer online concerns for competitive intelligence. Journal of Ambient Intelligence and Humanized Computing. https://doi.org/10.1007/s12652-017-0635-9 . [*[link]*](https://link.springer.com/article/10.1007%2Fs12652-017-0635-9)
 
-**Bold** and _Italic_ and `Code` text
+ - **Yan, S.**, Jin, J., Ji, P., & Geng, Z. (2017). Extracting Customer Concerns from Online Reviews of Series Products for Competitor Analysis. In *iConference 2017* Proceedings (pp. 142–156). https://doi.org/10.9776/17017. [Acceptance Rate: 34.8%] [Collected by Proceeding of Excellent Paper Corpus] [*[paper]*](https://www.ideals.illinois.edu/bitstream/handle/2142/96669/1.17_290_Yan-Extracting%20Customer%20Concerns%20From%20Online%20Reviews%20of%20Series%20Products.pdf?sequence=1&isAllowed=y) [*[link]*](http://hdl.handle.net/2142/96669)
+ 
+ - Jin, J., Ji, P., **Yan, S.**, Geng, Z., Extracting Customer Concerns from Online Reviews of Series Products for Competitor Analysis (Chinese Paper), accepted by *29th National Computer Information Management Conference*, China. 
 
-[Link](url) and ![Image](src)
-```
+ - **Yan, S.**, Ma, M., Liu, G., An Implement of Visualizing Single Research Paper from Corpus, *Public Administration Quarterly*, 2015, 1(1), pp24-42, Beijing Normal University.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## **News**
+- Join in 48-hour hackathon **IKODE@Shanghai** [[*link*]](http://hackathon.ikea.com/shanghai) hold by IKEA and BeMyApp. West Bund Artistic Center, Shanghai, China
+- Attend **ICCTS 2017**. Nanyang Technological University, Singapore, Singapore.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SixingYan/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
