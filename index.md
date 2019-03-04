@@ -1,6 +1,6 @@
 ### "Welcome to the Homepage of Sixing (Alfonso) Yan"
 
-**Keywords**: [Education] [Experiences] [Publications] [News]
+**Keywords**: [Education] [Experiences] [Publications & Papers] [News]
 
 ## **EDUCATION**
  - **Worcester Polytechnic Institute (WPI)** [[*link*]](https://www.wpi.edu/) (8/2018-6/2020)
@@ -13,15 +13,19 @@
 	*Outstanding Undergraduate Graduation Thesis: Utilizing Academic-Network-Based Conflict of Interests for Reviewer Assignment.*
 
 
-## **EXPERIENCE**
+## **EXPERIENCES**
  - Intern at Software Engineer (4/2018-7/2018)  
  	Back-End Track. **MoreMon Network Technology Co., Ltd**, Beijing, China.
+ 
  - Research Assistant (9/2017-3/2018)  
- 	Group: Database [[*link*]](http://www.ntu.edu.sg/home/arijit.khan/team.html). Data Management & Analyst Lab, **Nanyang Technological University**, Singapore.
+ 	Group: Database [[*link*]](http://www.ntu.edu.sg/home/arijit.khan/team.html). Data Management & Analyst Lab, **Nanyang Technological University**, Singapore.   
+ 
  - Intern at Data Analyst Assistant (8/2016-12/2016)   
 	Group: End-User Research Statistics. ***IDC Consulting (Beijing) Ltd.*** ,Beijing, China.
+ 
  - Assistant Undergraduate Researcher (6/2015-6/2017)   
 	Advisor: Professor and Deputy Dean Geng Qian [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), Assoc Prof. Jin Jian [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), ***Beijing Normal University***, Beijing, China.
+ 
  - Project Principal Investigator (6/2014-5/2015)   
 	Mentor: Professor and Department Director Liu Xiaojuan [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), ***Beijing Normal University***, Beijing, China.
 
@@ -40,8 +44,9 @@
  - **Yan, S.**, Ma, M., Liu, G., An Implement of Visualizing Single Research Paper from Corpus, *Public Administration Quarterly*, 2015, 1(1), pp24-42, Beijing Normal University.
 
 
-## **News**
+## **NEWS**
 - Join in 48-hour hackathon **IKODE@Shanghai** [[*link*]](http://hackathon.ikea.com/shanghai) hold by IKEA and BeMyApp. West Bund Artistic Center, Shanghai, China.
+
 - Attend **ICCTS 2017**. Nanyang Technological University, Singapore, Singapore.
 
 
