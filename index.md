@@ -1,21 +1,24 @@
-### "Welcome to the homepage of Sixing (Alfonso) Yan"
+### "Welcome to the Homepage of Sixing (Alfonso) Yan"
 
-**Keywords**: [Education] [Experiences] [Projects] [Publications] [News]
+**Keywords**: [Education] [Experiences] [Publications] [News]
 
 ## **EDUCATION**
- - **Worcester Polytechnic Institute (WPI)** [[*link*]](https://www.wpi.edu/) (present-6/2020)
- 	Master of Computer Science
- 	Worcester, Unites States
+ - **Worcester Polytechnic Institute (WPI)** [[*link*]](https://www.wpi.edu/) (8/2018-6/2020)
+ 	Master of *Computer Science*
+ 	Worcester, MA, Unites States.
  	
  - **Beijing Normal University (BNU)** [[*link*]](http://english.bnu.edu.cn/) (Project 985 & Project 211). (9/2013-6/2017)
 	Bachelor of *Information Management and Information Systems* 
-	Beijing, China
+	Beijing, China.
 	*Outstanding Undergraduate Graduation Thesis: Utilizing Academic-Network-Based Conflict of Interests for Reviewer Assignment.*
 
 
 ## **EXPERIENCE**
-
-- Intern at Data Analyst Assistant (8/2016-12/2016)
+ - Intern at Software Engineer (4/2018-7/2018)
+ 	Back-End Track. **MoreMon Network Technology Co., Ltd**, Beijing, China.
+ - Research Assistant (9/2017-3/2018)
+ 	Group: Database [[*link*]](http://www.ntu.edu.sg/home/arijit.khan/team.html). Data Management & Analyst Lab, **Nanyang Technological University**, Singapore.
+ - Intern at Data Analyst Assistant (8/2016-12/2016)
 	Group: End-User Research Statistics. ***IDC Consulting (Beijing) Ltd.*** ,Beijing, China.
  - Assistant Undergraduate Researcher (6/2015-6/2017)
 	Advisor: Professor and Deputy Dean Geng Qian [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), Assoc Prof. Jin Jian [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), ***Beijing Normal University***, Beijing, China.
@@ -23,7 +26,9 @@
 	Mentor: Professor and Department Director Liu Xiaojuan [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), ***Beijing Normal University***, Beijing, China.
 
 
-## **PUBLICATIONS**
+## **PUBLICATIONS & PAPERS**
+ - Khan A., **Yan S.**, 2018, arXiv e-prints, arXiv:1808.06800. 
+
  - **Yan, S.**, Jin, J., Geng, Q. (2017). Utilizing Academic-Network-Based Conflict of Interests for Paper Reviewer Assignment, International Journal of Knowledge Engineering vol. 3, no. 2, pp. 65-73. [*[paper]*](http://www.ijke.org/vol3/89-TS0034.pdf) [*[link]*](http://www.ijke.org/index.php?m=content&c=index&a=show&catid=47&id=135)
 
  - Jin, J., **Yan, S.**, Ji, P., & Geng, Z. Comparison of series products from customer online concerns for competitive intelligence. Journal of Ambient Intelligence and Humanized Computing. https://doi.org/10.1007/s12652-017-0635-9 . [*[link]*](https://link.springer.com/article/10.1007%2Fs12652-017-0635-9)
@@ -36,7 +41,7 @@
 
 
 ## **News**
-- Join in 48-hour hackathon **IKODE@Shanghai** [[*link*]](http://hackathon.ikea.com/shanghai) hold by IKEA and BeMyApp. West Bund Artistic Center, Shanghai, China
+- Join in 48-hour hackathon **IKODE@Shanghai** [[*link*]](http://hackathon.ikea.com/shanghai) hold by IKEA and BeMyApp. West Bund Artistic Center, Shanghai, China.
 - Attend **ICCTS 2017**. Nanyang Technological University, Singapore, Singapore.
 
 
