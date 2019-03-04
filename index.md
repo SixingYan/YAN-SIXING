@@ -14,15 +14,15 @@
 
 
 ## **EXPERIENCE**
- - Intern at Software Engineer (4/2018-7/2018)
+ - Intern at Software Engineer (4/2018-7/2018)  
  	Back-End Track. **MoreMon Network Technology Co., Ltd**, Beijing, China.
- - Research Assistant (9/2017-3/2018)
+ - Research Assistant (9/2017-3/2018)  
  	Group: Database [[*link*]](http://www.ntu.edu.sg/home/arijit.khan/team.html). Data Management & Analyst Lab, **Nanyang Technological University**, Singapore.
- - Intern at Data Analyst Assistant (8/2016-12/2016)
+ - Intern at Data Analyst Assistant (8/2016-12/2016)   
 	Group: End-User Research Statistics. ***IDC Consulting (Beijing) Ltd.*** ,Beijing, China.
- - Assistant Undergraduate Researcher (6/2015-6/2017)
+ - Assistant Undergraduate Researcher (6/2015-6/2017)   
 	Advisor: Professor and Deputy Dean Geng Qian [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), Assoc Prof. Jin Jian [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), ***Beijing Normal University***, Beijing, China.
- - Project Principal Investigator (6/2014-5/2015)
+ - Project Principal Investigator (6/2014-5/2015)   
 	Mentor: Professor and Department Director Liu Xiaojuan [[*link*]](http://www.sg.bnu.edu.cn/teacherdetail.aspx), ***Beijing Normal University***, Beijing, China.
 
 
