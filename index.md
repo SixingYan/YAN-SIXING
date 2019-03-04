@@ -3,13 +3,13 @@
 **Keywords**: [Education] [Experiences] [Publications & Papers] [News]
 
 ## **EDUCATION**
- - **Worcester Polytechnic Institute (WPI)** [[*link*]](https://www.wpi.edu/) (8/2018-6/2020)
- 	Master of *Computer Science*
- 	Worcester, MA, Unites States.
+ - **Worcester Polytechnic Institute (WPI)** [[*link*]](https://www.wpi.edu/) (8/2018-6/2020)    
+ 	Master of *Computer Science*     
+ 	Worcester, MA, Unites States.    
  	
- - **Beijing Normal University (BNU)** [[*link*]](http://english.bnu.edu.cn/) (Project 985 & Project 211). (9/2013-6/2017)
-	Bachelor of *Information Management and Information Systems* 
-	Beijing, China.
+ - **Beijing Normal University (BNU)** [[*link*]](http://english.bnu.edu.cn/) (9/2013-6/2017)    
+	Bachelor of *Information Management and Information Systems*   
+	Beijing, China.    
 	*Outstanding Undergraduate Graduation Thesis: Utilizing Academic-Network-Based Conflict of Interests for Reviewer Assignment.*
 
 
