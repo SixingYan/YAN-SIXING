@@ -16,48 +16,48 @@ Sixing's research interesting is focused on text mining and natural language pro
 
 
 ## **EDUCATION**
-#### [**Worcester Polytechnic Institute**](https://www.wpi.edu/)  8/2018-present    
+#### [**Worcester Polytechnic Institute**](https://www.wpi.edu/)  (8/2018-present)    
 Master of *Computer Science*     
 Worcester, MA, Unites States.    
 
-#### [**Beijing Normal University**](http://english.bnu.edu.cn/)  9/2013-6/2017    
+#### [**Beijing Normal University**](http://english.bnu.edu.cn/)  (9/2013-6/2017)    
 Bachelor of *Information Management and Information Systems*   
 Beijing, China.  
 	
 
 ## **EXPERIENCES**
-#### Intern at Algorithm Engineer (5/2019-7/2019)
+### Intern at Algorithm Engineer (5/2019-7/2019)     
 Group: Natrual Language Processing    
 **_AI Research Academy, New Oriental Education & Technology Group_**, Beijing, China.   
-##### Project
+Project     
 - Text-track Utterance Rejection: classifying the error transliteration of speaker-independent utterance.    
 - Poor Attitute Detection in Oral Text: detecting the poor attitute pieces in the long conversation.   
 - Active-Learning based Tagging and Model Training Assisting System: reducing tagging cost for model training.
 
-#### Intern at Software Engineer (4/2018-7/2018)  
+### Intern at Software Engineer (4/2018-7/2018)  
 Back-End Track   
 **_MoreMon Network Technology Co., Ltd_**, Beijing, China.   
-##### Project   
+Project        
 - Social Media Back-end System: a Python-Flask based restful server for mobile application _MoreMom_.
 - Backstage Management System: a Python-Django based restful server for integrating operational data.
  
-#### Research Assistant (9/2017-3/2018)  
+### Research Assistant (9/2017-3/2018)  
 Team: [Database](http://www.ntu.edu.sg/home/arijit.khan/team.html).    
 **_Data Management & Analyst Lab, Nanyang Technological University_**, Singapore.   
-##### Project   
+Project        
 - High-dimension Data Stream Mining: Sampling-based Dimension Compression
  
-#### Intern at Data Analyst Assistant (8/2016-12/2016)   
+### Intern at Data Analyst Assistant (8/2016-12/2016)   
 Group: End-User Research Statistics.    
 **_IDC Consulting (Beijing) Ltd._**, Beijing, China.   
-##### Project   
-1. Gross-source Management System
+Project        
+1. Gross-source Data Intergration System
 
-#### Assistant Undergraduate Researcher (6/2015-6/2017) 
+### Assistant Undergraduate Researcher (6/2015-6/2017) 
 Advisors: Professor and Deputy Dean [Geng Qian](http://www.sg.bnu.edu.cn/teacherdetail.aspx), Assoc Prof. [Jin Jian](http://www.sg.bnu.edu.cn/teacherdetail.aspx)   
 **_Beijing Normal University_**, Beijing, China.   
-##### Project
-1. 
+Project     
+1. Assignment System:
 2. Recommend System: 
 
 
@@ -75,18 +75,23 @@ Advisors: Professor and Deputy Dean [Geng Qian](http://www.sg.bnu.edu.cn/teacher
 
 
 ## **PROJECT** 
-#### SayYourMovie
+###  :Classification based on Multi-source Languange Models
+
+### Text Classification based on sentiment analysis
+
+
+### SayYourMovie: A 
 (https://github.com/2019-Spring-Information-Retrieval/backend)
 
 
-#### SimpleDB 3.0
+### SimpleDB 3.0
 ()
 
 
-####  
+### 
 
 
-####
+###
 
 
 ## Contect Info
