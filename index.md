@@ -42,23 +42,23 @@ Project
 - Backstage Management System: a Python-Django based restful server for integrating operational data.
  
 ### Research Assistant (9/2017-3/2018)  
-Team: [Database](http://www.ntu.edu.sg/home/arijit.khan/team.html).    
+Team: [Dr. Arijit Khan](https://www.ntu.edu.sg/home/arijit.khan/).    
 **_Data Management & Analyst Lab, Nanyang Technological University_**, Singapore.   
 Project        
-- High-dimension Data Stream Mining: Sampling-based Dimension Compression
+- High-dimension Data Stream Mining: Sampling based Dimension Compression
  
 ### Intern at Data Analyst Assistant (8/2016-12/2016)   
 Group: End-User Research Statistics.    
 **_IDC Consulting (Beijing) Ltd._**, Beijing, China.   
 Project        
-1. Gross-source Data Intergration System
+- Gross-source Data Intergration System
 
 ### Assistant Undergraduate Researcher (6/2015-6/2017) 
 Advisors: Professor and Deputy Dean [Geng Qian](http://www.sg.bnu.edu.cn/teacherdetail.aspx), Assoc Prof. [Jin Jian](http://www.sg.bnu.edu.cn/teacherdetail.aspx)   
 **_Beijing Normal University_**, Beijing, China.   
 Project     
-1. Assignment System:
-2. Recommend System: 
+- Assignment System:
+- Recommend System: 
 
 
 
@@ -75,9 +75,9 @@ Project
 
 
 ## **PROJECT** 
-###  :Classification based on Multi-source Languange Models
+### Text-based Utterance Rejection Utilizing Multi-source Languange Models
 
-### Text Classification based on sentiment analysis
+### Poor Attitute Detection by Sentiment Analysis
 
 
 ### SayYourMovie: A 
