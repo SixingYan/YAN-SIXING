@@ -6,8 +6,7 @@
 > [GitHub]()   
 > [LinkedIn]()   
 
-
-
+---
 
 About Me   
 Sixing Yan is an graduate student of [Department of Computer Science]() at [Worcester Polytechnic Institute](https://www.wpi.edu/) since 2018. He completed his B.S in the [Department of Information Management]() at [Beijing Normal University](http://english.bnu.edu.cn/) in 2017. 
