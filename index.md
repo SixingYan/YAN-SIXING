@@ -84,7 +84,7 @@ Project
 (https://github.com/2019-Spring-Information-Retrieval/backend)
 
 
-### SimpleDB 3.0
+### SimpleDB 3.0: 
 ()
 
 
