@@ -80,26 +80,24 @@ Project
 Leader: He Yang, Senior AI Engineer.
 Keywords: Text Classification, Feature Engineering, N-grams Language Model, Gradient Boosting Decision Tree, FastText
 [image]
-python, skLearn
 
 
 
-### Poor Attitute Detection by Sentiment Analysis
+### Poor Attitute Detection by Sentiment Analysis: Boosted
 
 Keywords: Text Classificaiton, Sentiment Analysis, Recurrent Netural Network, Random Forest
-Python PyTorch
 [image]
 
 ### Active Learning for Data Tagging and Model Training: An Assisant System
 
-Active Learning,
-Python-Flask
+Active Learning
+
 [image]
 
 
 ### SayYourMovie: A 
 Keywords: TF-IDF, Natual Language Generation
-Python-Flask PyTorch
+
 
 Advisor: Professor Lee Kuymin 
 (https://github.com/2019-Spring-Information-Retrieval/backend)
@@ -107,23 +105,26 @@ Advisor: Professor Lee Kuymin
 
 ### SimpleDB 3.0:
 Keywords: Database, Hash, Index
-Java
+
 Advisor: Professor Rodica
 (https://github.com/SixingYan/SimpleDB_3.00)
 [image]
 
 ### Hash
 Keywords: Sketch, Dimension Compression
+Advisor: Dr.Arijit Khan
 [image]
 
 
 ### Academic Network Mining
 Keywords: Graph Mining, LDA
+Advisor: Professor Qian Geng, Associate Professor Jian Jin
 [image]
 
 
 ### Review Minig
 Keywords: Spetral Clustering, Sentiment Analysis, Text Summeration, SVM, Review Sampling 
+Advisor: Associate Professor Jian Jin
 [image]
 
 
