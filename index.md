@@ -16,13 +16,15 @@ Sixing's research interesting is focused on text mining and natural language pro
 
 ## **EDUCATION**   
 #### [**Worcester Polytechnic Institute**](https://www.wpi.edu/)  (8/2018-present)    
+Department of Computer Science    
 Master of *Computer Science*     
 Worcester, Massachusetts, Unites States.    
 
 #### [**Beijing Normal University**](http://english.bnu.edu.cn/)  (9/2013-6/2017)    
+Department of Information Management    
 Bachelor of *Information Management and Information Systems*   
 Beijing, China.  
-	
+
 
 ## **EXPERIENCES**
 ### Intern at Algorithm Engineer (5/2019-7/2019)     
@@ -73,24 +75,58 @@ Project
  - Jin, J., Ji, P., **Yan, S.**, Geng, Z., Extracting Customer Concerns from Online Reviews of Series Products for Competitor Analysis (Chinese Paper), accepted by *29th National Computer Information Management Conference*, China. 
 
 
-## **PROJECT** 
+## [**PROJECT**](https://github.com/SixingYan/YAN-SIXING/blob/master/projects.md)
 ### Text-based Utterance Rejection Utilizing Multi-source Languange Models
+Leader: He Yang, Senior AI Engineer.
+Keywords: Text Classification, Feature Engineering, N-grams Language Model, Gradient Boosting Decision Tree, FastText
+[image]
+python, skLearn
+
+
 
 ### Poor Attitute Detection by Sentiment Analysis
 
+Keywords: Text Classificaiton, Sentiment Analysis, Recurrent Netural Network, Random Forest
+Python PyTorch
+[image]
+
+### Active Learning for Data Tagging and Model Training: An Assisant System
+
+Active Learning,
+Python-Flask
+[image]
+
 
 ### SayYourMovie: A 
+Keywords: TF-IDF, Natual Language Generation
+Python-Flask PyTorch
+
+Advisor: Professor Lee Kuymin 
 (https://github.com/2019-Spring-Information-Retrieval/backend)
+[image]
 
-
-### SimpleDB 3.0: 
+### SimpleDB 3.0:
+Keywords: Database, Hash, Index
+Java
+Advisor: Professor Rodica
 (https://github.com/SixingYan/SimpleDB_3.00)
+[image]
+
+### Hash
+Keywords: Sketch, Dimension Compression
+[image]
 
 
-### 
+### Academic Network Mining
+Keywords: Graph Mining, LDA
+[image]
 
 
-###
+### Review Minig
+Keywords: Spetral Clustering, Sentiment Analysis, Text Summeration, SVM, Review Sampling 
+[image]
+
+
 
 
 ## Contect Info
