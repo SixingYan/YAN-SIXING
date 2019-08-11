@@ -1,7 +1,7 @@
 "Welcome to the homepage of _Sixing (Alfonso) Yan_"
 
 > Other Links   
-> [CV](https://github.com/SixingYan/YAN-SIXING/blob/master/source/CV_SixingYan.pdf)   
+> [CV](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)   
 > [Resume](https://github.com/SixingYan/YAN-SIXING/blob/master/source/Resume_SixingYan.pdf)   
 > [GitHub](https://github.com/SixingYan)   
 > [LinkedIn](https://www.linkedin.com/in/sixing-yan/)   
@@ -79,7 +79,7 @@ Project
 ### Text-based Utterance Rejection Utilizing Multi-source Languange Models
 Leader: He Yang, Senior AI Engineer.
 Keywords: Text Classification, Feature Engineering, N-grams Language Model, Gradient Boosting Decision Tree, FastText
-[image]
+![image](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/rejection.jpg)
 
 
 
