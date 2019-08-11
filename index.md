@@ -1,10 +1,10 @@
 "Welcome to the homepage of _Sixing (Alfonso) Yan_"
 
 > Other Links   
-> [CV]()   
-> [Resume]()   
+> [CV](https://github.com/SixingYan/YAN-SIXING/blob/master/source/CV_SixingYan.pdf)   
+> [Resume](https://github.com/SixingYan/YAN-SIXING/blob/master/source/Resume_SixingYan.pdf)   
 > [GitHub](https://github.com/SixingYan)   
-> [LinkedIn]()   
+> [LinkedIn](https://www.linkedin.com/in/sixing-yan/)   
 
 ---
 
@@ -14,7 +14,7 @@ Sixing Yan is an graduate student of [Department of Computer Science]() at [Worc
 Sixing's research interesting is focused on text mining and natural language processing. More specifically, Sixing works on online review mining, academic network mining, sentiment analysis and text classification.
 
 
-## **EDUCATION**
+## **EDUCATION**   
 #### [**Worcester Polytechnic Institute**](https://www.wpi.edu/)  (8/2018-present)    
 Master of *Computer Science*     
 Worcester, Massachusetts, Unites States.    
