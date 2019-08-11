@@ -77,40 +77,35 @@ Project
 
 ## [**PROJECT**](https://github.com/SixingYan/YAN-SIXING/blob/master/projects.md)
 ### Text-based Utterance Rejection Utilizing Multi-source Languange Models
-Leader: He Yang, Senior AI Engineer.
-Keywords: Text Classification, Feature Engineering, N-grams Language Model, Gradient Boosting Decision Tree, FastText
+Leader: He Yang, Senior AI Engineer.   
+Keywords: _Text Classification_, _Feature Engineering_, _N-grams Language Model_, _Gradient Boosting Decision Tree_, _FastText_    
 ![Text-based Utterance Rejection](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/rejection.jpg)
 
 
 
-### Poor Attitute Detection by Sentiment Analysis: Boosted
+### [Poor Attitute Detection by Sentiment Analysis: Boosted]()
 
-Keywords: Text Classificaiton, Sentiment Analysis, Recurrent Netural Network, Random Forest
-[image]
+Keywords: _Text Classificaiton_, _Sentiment Analysis_, _Recurrent Netural Network_, _Random Forest_
+![Poor Attitute Detection]()
 
 ### Active Learning for Data Tagging and Model Training: An Assisant System
 
-Active Learning
+Keywords: _Active Learning_
 
-[image]
+![Active Learning System]()
 
 
-### SayYourMovie: A 
+### [SayYourMovie: A](https://github.com/2019-Spring-Information-Retrieval/backend)
 Keywords: TF-IDF, Natual Language Generation
+Advisor: Professor Lee Kuymin
+![]()
 
-
-Advisor: Professor Lee Kuymin 
-(https://github.com/2019-Spring-Information-Retrieval/backend)
-[image]
-
-### SimpleDB 3.0:
+### [SimpleDB 3.0:](https://github.com/SixingYan/SimpleDB_3.00)
 Keywords: Database, Hash, Index
-
 Advisor: Professor Rodica
-(https://github.com/SixingYan/SimpleDB_3.00)
 [image]
 
-### Hash
+### [Hash]()
 Keywords: Sketch, Dimension Compression
 Advisor: Dr.Arijit Khan
 [image]
