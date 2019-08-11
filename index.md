@@ -79,7 +79,7 @@ Project
 ### Text-based Utterance Rejection Utilizing Multi-source Languange Models
 Leader: He Yang, Senior AI Engineer.
 Keywords: Text Classification, Feature Engineering, N-grams Language Model, Gradient Boosting Decision Tree, FastText
-![image](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/rejection.jpg)
+![Text-based Utterance Rejection](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/rejection.jpg)
 
 
 
