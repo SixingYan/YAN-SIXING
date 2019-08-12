@@ -75,7 +75,8 @@ Project
 
 
 ## [**PROJECTS**](https://github.com/SixingYan/YAN-SIXING/blob/master/projects.md)
-### Text-based Utterance Rejection Utilizing Multi-source Languange Models
+
+### [Text-based Utterance Rejection Utilizing Multi-source Languange Models]()
 **Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.     
 **Keywords**: _Text Classification_, _Feature Engineering_, _N-grams Language Model_, _Gradient Boosting Decision Tree_, _FastText_          
 **Content**: Utterance Rejection is intended to detect the wrong/fake speech transliterated text pieces, which is a supplement of automated speech recognition (ASR).       
