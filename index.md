@@ -121,7 +121,7 @@ Neural Estimation for Text Generation [PPT]()
 ## Contect Info
 [Email](plutoyem@outlook.com)
 
-![Sixing Yan](https://github.com/SixingYan/YAN-SIXING/blob/master/source/self-img.jpg)
+![Sixing Yan](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/blob/master/source/self-img.jpg)
 
 
 
