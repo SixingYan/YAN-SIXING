@@ -1,42 +1,42 @@
-"Welcome to the homepage of _Sixing (Alfonso) Yan_"
 
-> Other Links   
-> [中文版](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)
-> [CV](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)   
-> [Resume](https://github.com/SixingYan/YAN-SIXING/blob/master/source/CV_SixingYan.pdf)   
+
+"欢迎来到 _颜思行 Alfonso_ 的主页"
+
+> **其他链接**   
+> [English Version]()
+> [CV（英文）](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)   
+> [中文简历](https://github.com/SixingYan/YAN-SIXING/blob/master/source/CV_SixingYan.pdf)   
 > [GitHub](https://github.com/SixingYan)   
-> [LinkedIn](https://www.linkedin.com/in/sixing-yan/)   
+> [领英](https://www.linkedin.com/in/sixing-yan/)   
 
 ---
 
-About Me   
-Sixing Yan is an graduate student of [Department of Computer Science](https://www.wpi.edu/academics/departments/computer-science) at [Worcester Polytechnic Institute](https://www.wpi.edu/) since 2018. He completed his B.S in the [Department of Information Management](http://www.sg.bnu.edu.cn/english/index.aspx) at [Beijing Normal University](http://english.bnu.edu.cn/) in 2017. 
+**关于我**    
+Sixing Yan is an graduate student of [计算机科学系](https://www.wpi.edu/academics/departments/computer-science) at [美国伍斯特理工学院](https://www.wpi.edu/) since 2018. 他在He completed his B.S in the [信息管理系](http://www.sg.bnu.edu.cn/index.aspx) at [北京师范大学](http://english.bnu.edu.cn/) in 2017. 
 
 Sixing's research interesting is focused on text mining and natural language processing, deep learning and machine learning. More specifically, Sixing works on online review mining, academic graph mining, sentiment analysis, named-entity recognition and text classification.
 
 
-## **EDUCATION**   
-#### [**Worcester Polytechnic Institute**](https://www.wpi.edu/)  (8/2018-present)    
-Department of Computer Science    
-Master of Science in *Computer Science*     
-Worcester, Massachusetts, Unites States.    
-> Courses: Machine Learning, 
+## **教育经历**   
+#### [**伍斯特理工学院**](https://www.wpi.edu/)  (8/2018-present)    
+计算机科学系    
+*计算机科学* 硕士     
+伍斯特, 马萨诸塞州, 美国.    
 
 #### [**Beijing Normal University**](http://english.bnu.edu.cn/)  (9/2013-6/2017)    
-Department of Information Management    
+信息管理系    
 Bachelor of *Information Management and Information Systems*   
 Beijing, China.  
-> Courses: Database Principle
 
 
-## **EXPERIENCES**
+## **工作经历**
 ### Intern at Algorithm Engineer (5/2019-7/2019)     
 Group: Natural Language Processing    
-**_[AI Research Academy](http://nair.xdf.cn/en/), New Oriental Education & Technology Group_**, Beijing, China.   
+**_[AI Research Academy](http://nair.xdf.cn/), New Oriental Education & Technology Group_**, Beijing, China.   
 Project     
 - Text-track Utterance Rejection: classifying the error transliteration of speaker-independent utterance.    
 - Poor Attitute Detection in Oral Text: detecting the poor attitute pieces in the long conversation.   
-- Active-Learning based Tagging and Model Training Joint System: reducing tagging cost.
+- Active-Learning based Tagging and Model Training Assisting System: reducing tagging cost for model training.
 
 ### Intern at Software Engineer (4/2018-7/2018)  
 Back-End Track   
@@ -65,7 +65,7 @@ Project
 - Competitive Intelligence Analysis: Extracting Customer Concerns from Online Reviews
 
 
-## **PUBLICATIONS & PAPERS**
+## **出版物及文章**
 - Jin, J., Ji, P., **Yan, S.**. (2019). Comparison of series products from customer online concerns for competitive intelligence. Journal of Ambient Intelligence and Humanized Computing vol. 10, no. 3, pp. 937-952. [*[link]*](https://link.springer.com/article/10.1007%2Fs12652-017-0635-9)
 
 - Khan A., **Yan S.**. (2018). Composite Hashing for Data Stream Sketches. arXiv e-prints, arXiv:1808.06800. [*[paper]*](http://export.arxiv.org/pdf/1808.06800) [*[link]*](https://arxiv.org/abs/1808.06800v1)
@@ -77,7 +77,7 @@ Project
  - Jin, J., Ji, P., **Yan, S.**, Geng, Z., Extracting Customer Concerns from Online Reviews of Series Products for Competitor Analysis (Chinese Paper), accepted by *29th National Computer Information Management Conference*, China. [Innovation Award: 3/50]
 
 
-## [**PROJECTS**](https://github.com/SixingYan/YAN-SIXING/blob/master/projects.md)
+## [**项目经历**](https://github.com/SixingYan/YAN-SIXING/blob/master/projects.md)
 
 ### [Text-based Utterance Rejection Utilizing Multi-source Languange Models]()
 **Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.     
@@ -86,28 +86,10 @@ Project
 ![Text-based Utterance Rejection](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/rejection.jpg)
 
 
-### Poor Attitute Detection in Oral Text
-**Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
+## 读书笔记 (PPT形式的PDF文件)
+Here are some good paper I read and took notes. Thanks for their wonderful output. Reading notes are provided as PDF file of power-point.  
 
-### Extracting Content of Specifc-domain Texts: Denoising and Clustering   
-**Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
-
-### Active-Learning based Tagging and Model Training Joint System
-**Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
-
-
-### SayYourMovie: Boosting Search Engine by User Word-of-mouth Expression 
-**Mentor**: Dr. Lee Kyumin
-
-
-### Composite Hashing for Data Stream Sketches
-**Mentor**: Dr. Khan Arijit
-
-
-
-
-## Reading Notes (Power-Point PDF)
-Here are some good paper I read and took notes. Thanks for their wonderful output. Reading notes are provided as PDF file of power-point. Download links coming soon.  
+download links coming soon.   
 
 - (EMNLP-19) Enhancing Variational Autoencoders with Mutual Information
 Neural Estimation for Text Generation [PPT]()
@@ -116,10 +98,16 @@ Neural Estimation for Text Generation [PPT]()
 
 
 
-## Contect Info
+## 联系方式
 [Email](plutoyem@outlook.com)
 
 ![Sixing Yan](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/self-img.jpeg)
+
+
+
+
+
+
 
 
 
