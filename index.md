@@ -1,7 +1,7 @@
 "Welcome to the homepage of _Sixing (Alfonso) Yan_"
 
 > Other Links   
-> [中文版](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)
+> [中文版](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)   
 > [CV](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)   
 > [Resume](https://github.com/SixingYan/YAN-SIXING/blob/master/source/CV_SixingYan.pdf)   
 > [GitHub](https://github.com/SixingYan)   
@@ -88,6 +88,8 @@ Project
 
 ### Poor Attitute Detection in Oral Text
 **Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
+**Keywords**: _Text Classification_, _Feature Engineering_, _N-grams Language Model_, _Gradient Boosting Decision Tree_, _FastText_
+
 
 ### Extracting Content of Specifc-domain Texts: Denoising and Clustering   
 **Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
@@ -119,7 +121,8 @@ Neural Estimation for Text Generation [PPT]()
 ## Contect Info
 [Email](plutoyem@outlook.com)
 
-![Sixing Yan](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/self-img.jpeg)
+![Sixing Yan](https://github.com/SixingYan/YAN-SIXING/blob/master/source/self-img.jpg)
+
 
 
 

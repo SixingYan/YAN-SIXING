@@ -3,7 +3,7 @@
 "欢迎来到 _颜思行 Alfonso_ 的主页"
 
 > **其他链接**   
-> [English Version]()
+> [English Version]()   
 > [CV（英文）](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)   
 > [中文简历](https://github.com/SixingYan/YAN-SIXING/blob/master/source/CV_SixingYan.pdf)   
 > [GitHub](https://github.com/SixingYan)   
@@ -38,8 +38,8 @@ Project
 - Poor Attitute Detection in Oral Text: detecting the poor attitute pieces in the long conversation.   
 - Active-Learning based Tagging and Model Training Assisting System: reducing tagging cost for model training.
 
-### Intern at Software Engineer (4/2018-7/2018)  
-Back-End Track   
+### 软件工程师实习生 (4/2018-7/2018)  
+后端方向   
 **_MoreMon Network Technology Co., Ltd_**, Beijing, China.   
 Project        
 - Social Media Back-end System: a Python-Flask based restful server for mobile application _MoreMom_.
@@ -65,6 +65,15 @@ Project
 - Competitive Intelligence Analysis: Extracting Customer Concerns from Online Reviews
 
 
+## [**项目经历**](https://github.com/SixingYan/YAN-SIXING/blob/master/projects.md)
+
+### [Text-based Utterance Rejection Utilizing Multi-source Languange Models]()
+**Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.     
+**Keywords**: _Text Classification_, _Feature Engineering_, _N-grams Language Model_, _Gradient Boosting Decision Tree_, _FastText_          
+**Content**: Utterance Rejection is intended to detect the wrong/fake speech transliterated text pieces, which is a supplement of automated speech recognition (ASR).       
+![Text-based Utterance Rejection](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/rejection.jpg)
+
+
 ## **出版物及文章**
 - Jin, J., Ji, P., **Yan, S.**. (2019). Comparison of series products from customer online concerns for competitive intelligence. Journal of Ambient Intelligence and Humanized Computing vol. 10, no. 3, pp. 937-952. [*[link]*](https://link.springer.com/article/10.1007%2Fs12652-017-0635-9)
 
@@ -75,16 +84,6 @@ Project
  - **Yan, S.**, Jin, J., Ji, P., & Geng, Z. (2017). Extracting Customer Concerns from Online Reviews of Series Products for Competitor Analysis. In *iConference 2017* Proceedings (pp. 142–156). https://doi.org/10.9776/17017. [Acceptance Rate: 34.8%]  [*[paper]*](https://www.ideals.illinois.edu/bitstream/handle/2142/96669/1.17_290_Yan-Extracting%20Customer%20Concerns%20From%20Online%20Reviews%20of%20Series%20Products.pdf?sequence=1&isAllowed=y) [*[link]*](http://hdl.handle.net/2142/96669)
  
  - Jin, J., Ji, P., **Yan, S.**, Geng, Z., Extracting Customer Concerns from Online Reviews of Series Products for Competitor Analysis (Chinese Paper), accepted by *29th National Computer Information Management Conference*, China. [Innovation Award: 3/50]
-
-
-## [**项目经历**](https://github.com/SixingYan/YAN-SIXING/blob/master/projects.md)
-
-### [Text-based Utterance Rejection Utilizing Multi-source Languange Models]()
-**Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.     
-**Keywords**: _Text Classification_, _Feature Engineering_, _N-grams Language Model_, _Gradient Boosting Decision Tree_, _FastText_          
-**Content**: Utterance Rejection is intended to detect the wrong/fake speech transliterated text pieces, which is a supplement of automated speech recognition (ASR).       
-![Text-based Utterance Rejection](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/rejection.jpg)
-
 
 ## 读书笔记 (PPT形式的PDF文件)
 Here are some good paper I read and took notes. Thanks for their wonderful output. Reading notes are provided as PDF file of power-point.  
@@ -101,7 +100,7 @@ Neural Estimation for Text Generation [PPT]()
 ## 联系方式
 [Email](plutoyem@outlook.com)
 
-![Sixing Yan](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/master/source/self-img.jpeg)
+![Sixing Yan](https://github.com/SixingYan/YAN-SIXING/blob/master/source/self-img.jpg)
 
 
 
