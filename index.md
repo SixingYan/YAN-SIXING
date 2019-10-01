@@ -1,7 +1,7 @@
 "Welcome to the homepage of _Sixing (Alfonso) Yan_"
 
 > Other Links   
-> [中文版](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)   
+> [中文版](https://github.com/SixingYan/YAN-SIXING/blob/master/index_cn.md)   
 > [CV](https://github.com/SixingYan/YAN-SIXING/raw/master/source/CV_SixingYan.pdf)   
 > [Resume](https://github.com/SixingYan/YAN-SIXING/blob/master/source/CV_SixingYan.pdf)   
 > [GitHub](https://github.com/SixingYan)   
@@ -20,13 +20,13 @@ Sixing's research interesting is focused on text mining and natural language pro
 Department of Computer Science    
 Master of Science in *Computer Science*     
 Worcester, Massachusetts, Unites States.    
-> Courses: Machine Learning, 
+> Courses: Machine Learning, Information
 
 #### [**Beijing Normal University**](http://english.bnu.edu.cn/)  (9/2013-6/2017)    
 Department of Information Management    
 Bachelor of *Information Management and Information Systems*   
 Beijing, China.  
-> Courses: Database Principle
+> Courses: , Database Principle
 
 
 ## **EXPERIENCES**
@@ -93,18 +93,26 @@ Project
 
 ### Extracting Content of Specifc-domain Texts: Denoising and Clustering   
 **Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
+**Keywords**: _VAE_
 
 ### Active-Learning based Tagging and Model Training Joint System
 **Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
 
 
 ### SayYourMovie: Boosting Search Engine by User Word-of-mouth Expression 
-**Mentor**: Dr. Lee Kyumin
-
+**Mentor**: Dr. Lee Kyumin. Department of Computer Science, Worcester Polytechnic Institute
+**Keywords**: _Text Generation, _Entity Recognization_, _Learning to Rank_, _PageRank_,  _TF-IDF_          
+**Content**: .   
 
 ### Composite Hashing for Data Stream Sketches
-**Mentor**: Dr. Khan Arijit
+**Mentor**: Dr. Khan Arijit. School of Computer Science and Engineering, Nanyang Technological University.
 
+
+### Graph Mining
+
+
+
+### Online Review
 
 
 
@@ -119,9 +127,14 @@ Neural Estimation for Text Generation [PPT]()
 
 
 ## Contect Info
-[Email](plutoyem@outlook.com)
+- [Email](plutoyem@outlook.com) 
+- [Personal Picture](https://github.com/SixingYan/YAN-SIXING/master/source/self-img.jpg)  
 
-![Sixing Yan](https://raw.githubusercontent.com/SixingYan/YAN-SIXING/blob/master/source/self-img.jpg)
+
+
+
+
+
 
 
 
