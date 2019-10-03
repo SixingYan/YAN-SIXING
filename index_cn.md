@@ -42,7 +42,7 @@
 工作内容：
 * App社交圈功能的后端服务: 基于a Python-Flask的手机应用 *摩尔妈妈* 的API后端服务.
 * 后台管理系统: 基于Python-Django统一管理运营数据.
-* 基于Docker的Filebeat++一体化的搭建操作手册
+* Filebeat + 基于Docker的ELK(ElasticSearch/Logstash/Kibana)一体化的搭建操作手册
 
 ### 助理研究员 (全职) (9/2017-3/2018)
 [Dr. Arijit Khan](https://www.ntu.edu.sg/home/arijit.khan/) 团队
@@ -55,36 +55,30 @@
 工作内容：
 * 多源数据管理操作平台: 整合市场部, 销售部和用户研究部的关联数据, 基于MS Access + MySQL搭建允许权限控制的数据输入/导出平台.
 
-## [**项目经历**](https://github.com/SixingYan/YAN-SIXING/blob/master/projects.md)
+## [**项目经历**](https://sixingyan.github.io/YAN-SIXING/)
 
-### [使用多源语言模型集合的文本方向转写拒识]()
+### [使用多源语言模型集合的文本方向转写拒识](https://sixingyan.github.io/YAN-SIXING/)
 **机构**: 新东方人工智能研究院  
 **关键词**: *文本分类*, *特征工程*, *N-grams语言模型*, *GBDT*, *FastText*  
 **内容**: 拒识手段用于检测转录结果中错误或虚假的文本片段. 它是自动语音识别 (ASR) 中的一种辅助方法.  
 
-### [对话语境中可解释地检测负面态度片段]()
+### [对话语境中可解释地检测负面态度片段](https://sixingyan.github.io/YAN-SIXING/)
 **机构**: 新东方人工智能研究院  
 **关键词**: *序列标注*, *随机森林*, *情感分析*, *文本分类*, *ELMo*, *主动学习*  
 **内容**: 识别特定语境下的极端态度的文本片段, 提供可解释的模型结果. 同时学习数据潜在特征, 减少待标记工作量.
 
 
-### [使用主动学习策略的数据打标和模型训练系统]()
+### [使用主动学习策略的数据打标和模型训练系统](https://sixingyan.github.io/YAN-SIXING/)
 **机构**: 新东方人工智能研究院   
 **关键词**: *主动学习*, *Python-Flask*    
-**内容**: 真实场景中，大量人工标记数据难以快速获得. 利用主动学习策略识别最具标记价值的原始数据, 可以减少   
+**内容**: 真实场景中，大量人工标记数据难以快速获得. 这里利用主动学习策略识别最具标记价值的原始数据, 保证模型训练效果的同时, 减少待标记数据池.   
 
 
-### []()
+### [App图文社交功能的后端服务](https://sixingyan.github.io/YAN-SIXING/)
 **机构**: 摩尔妈咪科技有限公司   
 **关键词**: *Python-Flask*, *MySQL*, *Marshmallow*   
-**内容**: 为App社交朋友圈模块提供API服务. 后端系统响应App的数据请求, 采用Marshmallow装卸并验证数据包, 满足多条件转发需求.     
+**内容**: 为App社交朋友圈模块提供API服务. 后端系统响应App的数据请求, 采用Marshmallow装卸和验证数据包, 满足多条件转发需求.     
 
-
-### []()
-*序列标注* *文本生成*, *PageRank*, *TF-IDF*
-
-### []()
-*主题挖掘*, 
 
 ## 联系方式
 [Email](plutoyem@outlook.com)
