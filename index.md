@@ -9,7 +9,7 @@
 
 ---
 
-About Me   
+**About Me**   
 Sixing Yan is an graduate student of [Department of Computer Science](https://www.wpi.edu/academics/departments/computer-science) at [Worcester Polytechnic Institute](https://www.wpi.edu/) since 2018. He completed his B.S in the [Department of Information Management](http://www.sg.bnu.edu.cn/english/index.aspx) at [Beijing Normal University](http://english.bnu.edu.cn/) in 2017. 
 
 Sixing's research interesting is focused on text mining and natural language processing, deep learning and machine learning. More specifically, Sixing works on online review mining, academic graph mining, sentiment analysis, named-entity recognition and text classification.
@@ -93,7 +93,7 @@ Project
 
 ### Extracting Content of Specifc-domain Texts: Denoising and Clustering   
 **Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
-**Keywords**: _VAE_
+**Keywords**: _kMeans_, _AutoEncoder_
 
 ### Active-Learning based Tagging and Model Training Joint System
 **Leader**: He Yang, Senior AI Engineer. AI Research Academy, New Oriental Education & Technology Group.  
@@ -109,11 +109,11 @@ Project
 
 
 ### Graph Mining
-
+**Mentor**: 
 
 
 ### Online Review
-
+**Mentor**: 
 
 
 ## Reading Notes (Power-Point PDF)
@@ -128,7 +128,7 @@ Neural Estimation for Text Generation [PPT]()
 
 ## Contect Info
 - [Email](plutoyem@outlook.com) 
-- [Personal Picture](https://github.com/SixingYan/YAN-SIXING/master/source/self-img.jpg)  
+- [Personal Picture](https://github.com/SixingYan/YAN-SIXING/blob/master/source/self-img.jpg)  
 
 
 
